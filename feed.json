@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Bento",
+    "description": "",
+    "home_page_url": "https://gostbento.github.io/BentoCesar",
+    "feed_url": "https://gostbento.github.io/BentoCesar/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Cesar"
+    },
+    "items": [
+        {
+            "id": "https://gostbento.github.io/BentoCesar/this-is-mostly-a-test.html",
+            "url": "https://gostbento.github.io/BentoCesar/this-is-mostly-a-test.html",
+            "title": "This is mostly a test. ",
+            "summary": "if this works it mean I will now have a very simple website. which is good ",
+            "content_html": "<p>if this works it mean I will now have a very simple website. which is good </p>",
+            "author": {
+                "name": "Cesar"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-09-15T01:41:48-03:00",
+            "date_modified": "2022-09-15T01:41:48-03:00"
+        }
+    ]
+}

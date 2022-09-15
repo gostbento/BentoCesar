@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Bento</title>
+    <link href="https://gostbento.github.io/BentoCesar/feed.xml" rel="self" />
+    <link href="https://gostbento.github.io/BentoCesar" />
+    <updated>2022-09-15T01:41:48-03:00</updated>
+    <author>
+        <name>Cesar</name>
+    </author>
+    <id>https://gostbento.github.io/BentoCesar</id>
+
+    <entry>
+        <title>This is mostly a test. </title>
+        <author>
+            <name>Cesar</name>
+        </author>
+        <link href="https://gostbento.github.io/BentoCesar/this-is-mostly-a-test.html"/>
+        <id>https://gostbento.github.io/BentoCesar/this-is-mostly-a-test.html</id>
+
+        <updated>2022-09-15T01:41:48-03:00</updated>
+            <summary>
+                <![CDATA[
+                    if this works it mean I will now have a very simple website. which is good 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>if this works it mean I will now have a very simple website. which is good </p>
+            ]]>
+        </content>
+    </entry>
+</feed>

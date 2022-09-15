@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://gostbento.github.io/BentoCesar/sitemap.xml
