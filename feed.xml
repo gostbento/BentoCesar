@@ -3,29 +3,33 @@
     <title>Bento</title>
     <link href="https://gostbento.github.io/BentoCesar/feed.xml" rel="self" />
     <link href="https://gostbento.github.io/BentoCesar" />
-    <updated>2022-09-15T01:41:48-03:00</updated>
+    <updated>2022-09-15T02:20:32-03:00</updated>
     <author>
         <name>Cesar</name>
     </author>
     <id>https://gostbento.github.io/BentoCesar</id>
 
     <entry>
-        <title>This is mostly a test. </title>
+        <title>A statement </title>
         <author>
             <name>Cesar</name>
         </author>
-        <link href="https://gostbento.github.io/BentoCesar/this-is-mostly-a-test.html"/>
-        <id>https://gostbento.github.io/BentoCesar/this-is-mostly-a-test.html</id>
+        <link href="https://gostbento.github.io/BentoCesar/a-statement.html"/>
+        <id>https://gostbento.github.io/BentoCesar/a-statement.html</id>
 
-        <updated>2022-09-15T01:41:48-03:00</updated>
+        <updated>2022-09-15T02:20:32-03:00</updated>
             <summary>
                 <![CDATA[
-                    if this works it mean I will now have a very simple website. which is good 
+                    I am afraid the past few months made me weirdly mixed into a web of unorganized projects and clients that were either inconvenienced by it, or clients which weren't just because they are pure at heart and very patient. but this is no more. or&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>if this works it mean I will now have a very simple website. which is good </p>
+                <p>I am afraid the past few months made me weirdly mixed into a web of unorganized projects and clients that were either inconvenienced by it, or clients which weren't just because they are pure at heart and very patient. <br>but this is no more. or at least it will be no more.<br>As I am studying a way to organize this in a better way. </p>
+<p>my main concerns about organization stem from delivering the content to the client, while holding on to their files until payment. I need a better order tracking and a better journaling of progress. and this both things need to be simultaneous. </p>
+<p>I am studying the best tools to do it. Even making it as a Storefront was an option I've considered using a tool like shopify or woocomerce but right now I have no definitive solution. <br>but I do have pointers</p>
+<p>Notion.so: i think it is terrible because it is too easy to make it too convoluted. <br>Trelllo: Until I find a way to make some part of the process secretive while others not it will be out of the question. <br>A landing page with blogging functions would work great. but it would need a way to make posts secretive. <br>Github would work amazing, if the files I work weren't too big for it to work. <br>all other tools I find too convoluted or hard to use. the best tool so far was a pen and paper agenda, but sharing this with clients is complicated at least</p>
+<p>So far I am still testing. but something have to com from it. Just a matter of waiting. </p>
             ]]>
         </content>
     </entry>
